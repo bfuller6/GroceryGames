@@ -1,0 +1,12 @@
+Grocery Games
+Members: Rameen Khalid, Brian Fuller
+Date: 11/17/2019
+
+We are developing a program to streamline the basic functions required to run a grocery store by keeping track of inventory, employees and members.
+So far, the base classes such as Person, Products, Vendors and Batch have been created. They provide a basic foundation for keeping track of names,
+designaions, products and batch number of any items present in the grocery store. They also classify products into perishables and non-perishables 
+and allow us to distingush between employees and rewards members.
+
+Stocking and Stock expiration have also been added to keep track of our perishable and non-perishable items. In the following days code to tackle
+Employee specific and rewards member specific information will be added as well as expenses. From expenses will stem our revenue, expenses and profit
+cycle which should be completed by Thanksgiving break. Therefore,      
